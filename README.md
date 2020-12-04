@@ -1,1 +1,1 @@
-# Flow-exporter-to-kafka
+# Ingetstor metadat z network flow do Apache Kafka
